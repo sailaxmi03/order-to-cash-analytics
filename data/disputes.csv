@@ -1,0 +1,101 @@
+dispute_id,invoice_id,dispute_reason,dispute_status
+DSP-2026-000001,INV-2026-000443,Incorrect Amount,Open
+DSP-2026-000002,INV-2026-000374,Duplicate Invoice,Resolved
+DSP-2026-000003,INV-2026-000414,Short Payment,Open
+DSP-2026-000004,INV-2026-000714,Incorrect Amount,Open
+DSP-2026-000005,INV-2026-000202,Duplicate Invoice,Under Review
+DSP-2026-000006,INV-2026-000544,Duplicate Invoice,Under Review
+DSP-2026-000007,INV-2026-000474,Short Payment,Resolved
+DSP-2026-000008,INV-2026-000434,Duplicate Invoice,Resolved
+DSP-2026-000009,INV-2026-000728,Short Payment,Under Review
+DSP-2026-000010,INV-2026-000676,Incorrect Amount,Under Review
+DSP-2026-000011,INV-2026-000400,Incorrect Amount,Resolved
+DSP-2026-000012,INV-2026-000017,Short Payment,Resolved
+DSP-2026-000013,INV-2026-000572,Short Payment,Resolved
+DSP-2026-000014,INV-2026-000478,Duplicate Invoice,Under Review
+DSP-2026-000015,INV-2026-000263,Short Payment,Under Review
+DSP-2026-000016,INV-2026-000339,Duplicate Invoice,Open
+DSP-2026-000017,INV-2026-000511,Incorrect Amount,Resolved
+DSP-2026-000018,INV-2026-000248,Short Payment,Resolved
+DSP-2026-000019,INV-2026-000559,Incorrect Amount,Under Review
+DSP-2026-000020,INV-2026-000399,Incorrect Amount,Open
+DSP-2026-000021,INV-2026-000436,Incorrect Amount,Under Review
+DSP-2026-000022,INV-2026-000274,Incorrect Amount,Open
+DSP-2026-000023,INV-2026-000702,Incorrect Amount,Under Review
+DSP-2026-000024,INV-2026-000065,Incorrect Amount,Under Review
+DSP-2026-000025,INV-2026-000283,Short Payment,Under Review
+DSP-2026-000026,INV-2026-000246,Incorrect Amount,Open
+DSP-2026-000027,INV-2026-000745,Short Payment,Under Review
+DSP-2026-000028,INV-2026-000573,Duplicate Invoice,Under Review
+DSP-2026-000029,INV-2026-000511,Short Payment,Open
+DSP-2026-000030,INV-2026-000657,Short Payment,Open
+DSP-2026-000031,INV-2026-000320,Short Payment,Under Review
+DSP-2026-000032,INV-2026-000001,Short Payment,Open
+DSP-2026-000033,INV-2026-000671,Duplicate Invoice,Under Review
+DSP-2026-000034,INV-2026-000655,Duplicate Invoice,Resolved
+DSP-2026-000035,INV-2026-000194,Duplicate Invoice,Resolved
+DSP-2026-000036,INV-2026-000763,Duplicate Invoice,Under Review
+DSP-2026-000037,INV-2026-000573,Duplicate Invoice,Under Review
+DSP-2026-000038,INV-2026-000676,Duplicate Invoice,Resolved
+DSP-2026-000039,INV-2026-000357,Duplicate Invoice,Open
+DSP-2026-000040,INV-2026-000301,Short Payment,Resolved
+DSP-2026-000041,INV-2026-000156,Duplicate Invoice,Under Review
+DSP-2026-000042,INV-2026-000194,Incorrect Amount,Under Review
+DSP-2026-000043,INV-2026-000297,Short Payment,Under Review
+DSP-2026-000044,INV-2026-000068,Short Payment,Under Review
+DSP-2026-000045,INV-2026-000236,Incorrect Amount,Open
+DSP-2026-000046,INV-2026-000090,Incorrect Amount,Resolved
+DSP-2026-000047,INV-2026-000313,Duplicate Invoice,Under Review
+DSP-2026-000048,INV-2026-000507,Short Payment,Under Review
+DSP-2026-000049,INV-2026-000057,Duplicate Invoice,Resolved
+DSP-2026-000050,INV-2026-000581,Duplicate Invoice,Open
+DSP-2026-000051,INV-2026-000360,Incorrect Amount,Open
+DSP-2026-000052,INV-2026-000694,Duplicate Invoice,Under Review
+DSP-2026-000053,INV-2026-000769,Incorrect Amount,Under Review
+DSP-2026-000054,INV-2026-000718,Incorrect Amount,Resolved
+DSP-2026-000055,INV-2026-000530,Duplicate Invoice,Under Review
+DSP-2026-000056,INV-2026-000729,Incorrect Amount,Under Review
+DSP-2026-000057,INV-2026-000038,Incorrect Amount,Resolved
+DSP-2026-000058,INV-2026-000528,Incorrect Amount,Resolved
+DSP-2026-000059,INV-2026-000046,Incorrect Amount,Open
+DSP-2026-000060,INV-2026-000124,Duplicate Invoice,Open
+DSP-2026-000061,INV-2026-000322,Duplicate Invoice,Under Review
+DSP-2026-000062,INV-2026-000091,Duplicate Invoice,Open
+DSP-2026-000063,INV-2026-000101,Duplicate Invoice,Resolved
+DSP-2026-000064,INV-2026-000539,Incorrect Amount,Resolved
+DSP-2026-000065,INV-2026-000228,Duplicate Invoice,Open
+DSP-2026-000066,INV-2026-000081,Duplicate Invoice,Resolved
+DSP-2026-000067,INV-2026-000227,Short Payment,Under Review
+DSP-2026-000068,INV-2026-000385,Duplicate Invoice,Under Review
+DSP-2026-000069,INV-2026-000304,Incorrect Amount,Under Review
+DSP-2026-000070,INV-2026-000590,Duplicate Invoice,Resolved
+DSP-2026-000071,INV-2026-000671,Duplicate Invoice,Resolved
+DSP-2026-000072,INV-2026-000521,Short Payment,Open
+DSP-2026-000073,INV-2026-000546,Short Payment,Resolved
+DSP-2026-000074,INV-2026-000625,Incorrect Amount,Open
+DSP-2026-000075,INV-2026-000700,Short Payment,Resolved
+DSP-2026-000076,INV-2026-000270,Incorrect Amount,Resolved
+DSP-2026-000077,INV-2026-000508,Duplicate Invoice,Open
+DSP-2026-000078,INV-2026-000211,Incorrect Amount,Open
+DSP-2026-000079,INV-2026-000342,Duplicate Invoice,Open
+DSP-2026-000080,INV-2026-000170,Duplicate Invoice,Open
+DSP-2026-000081,INV-2026-000725,Incorrect Amount,Under Review
+DSP-2026-000082,INV-2026-000675,Duplicate Invoice,Open
+DSP-2026-000083,INV-2026-000114,Incorrect Amount,Resolved
+DSP-2026-000084,INV-2026-000403,Short Payment,Resolved
+DSP-2026-000085,INV-2026-000484,Incorrect Amount,Open
+DSP-2026-000086,INV-2026-000003,Incorrect Amount,Open
+DSP-2026-000087,INV-2026-000602,Short Payment,Under Review
+DSP-2026-000088,INV-2026-000332,Duplicate Invoice,Open
+DSP-2026-000089,INV-2026-000781,Incorrect Amount,Open
+DSP-2026-000090,INV-2026-000104,Short Payment,Under Review
+DSP-2026-000091,INV-2026-000727,Incorrect Amount,Open
+DSP-2026-000092,INV-2026-000564,Duplicate Invoice,Resolved
+DSP-2026-000093,INV-2026-000465,Duplicate Invoice,Open
+DSP-2026-000094,INV-2026-000083,Incorrect Amount,Resolved
+DSP-2026-000095,INV-2026-000189,Short Payment,Under Review
+DSP-2026-000096,INV-2026-000589,Duplicate Invoice,Resolved
+DSP-2026-000097,INV-2026-000392,Duplicate Invoice,Resolved
+DSP-2026-000098,INV-2026-000588,Short Payment,Under Review
+DSP-2026-000099,INV-2026-000419,Incorrect Amount,Open
+DSP-2026-000100,INV-2026-000421,Duplicate Invoice,Open
